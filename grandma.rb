@@ -8,7 +8,7 @@ def speak_to_grandma(phrase)
   end
 end
 
-phrase = "I LOVE YOU GRANDMA!"
+phrase = "hi"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
